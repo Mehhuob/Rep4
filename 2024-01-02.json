@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Hamilton",
+  "age": 23,
+  "address": {
+    "street": "Nehoni Center",
+    "city": "Bahojtup",
+    "state": "MN",
+    "zip": "29565"
+  },
+  "contact": {
+    "phone": "(365) 680-9777",
+    "servicePhone": "800692978"
+  },
+  "birthday": "1992-06-19T05:25:38.805Z",
+  "ip": "136.177.156.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Got tih mak fa apudala era epu wep gitiwu zolo iv vij. Pafael oroune bovat cujgiroha hucios ilani kavpusmu ejanocgam banasuh ci me dopajehi vampabku dallikod go juhot kowewfo vepi. Sirju naz capgi sot fiw wojucbah mewe sabjaok facenu tikahzoj wajehe wokum ekcicli webpuf.",
+    "bio": "Ip ag odueke zodmoat maf pezzarnum palekufaj de pogmu wutis di suvufan heawca pen ni pu. Apu re far zoepelug duzuw ri hieki iwujo fi kewubi hued koma ras su suze le. Vopug lamac ihecu duthifgif rodawu no godnugiz ru bognap fownelod liznuf cu akoki."
+  },
+  "apiKey": "73b9f53797fd60f46f84f8f7c011078395d0b63aa5c689babc5484dea16bff2d",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
