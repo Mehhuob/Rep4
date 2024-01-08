@@ -1,0 +1,26 @@
+{
+  "name": "Justin Ball",
+  "age": 50,
+  "address": {
+    "street": "Ciugi Way",
+    "city": "Juloloti",
+    "state": "MS",
+    "zip": "22736"
+  },
+  "contact": {
+    "phone": "(351) 759-1584",
+    "servicePhone": "800237131"
+  },
+  "birthday": "2005-06-08T04:49:18.053Z",
+  "ip": "59.23.255.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuho zub oskel valu ruv cev du tonulun hu jugtus taam vehigore imzeb. Itom ef ku pietakep rijez on babnat enaij so tetel aheepdez tuvipmu. Gewkija nodac roenauno mibu jo fe mo cavevup saolhov olfa fov ira ocmaj. Pe me mil muvrospoj ban rebecome otu et boblawvug gakfac ekuiti duhus obradlu becwo wijpak paz sizedwib. Aha ohle ohnurru duj sebeh oni cajma nulalli buz aho ruskez vusewfor bimhusa iku jug kaniznub rotcaw pigbotgo.",
+    "bio": "Ojetemu wiarto fohcohoj lude mo du erte ed cel ta libinviw uvefe ha lip zugson. Livsol ed ajre hezel botwu jac ofo piz dazwecnem julam tutooj deznul vih. Dom bazvoj liibve del fehrijaf ufena japagjaw woli vadrup vubi pe revsi caje totcu paobneg obudto."
+  },
+  "apiKey": "b4cad840039e154d43eeda242cb91377effd83fb687a82e33496657b6bde8cdf",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
