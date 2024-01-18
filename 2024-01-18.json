@@ -1,0 +1,26 @@
+{
+  "name": "Luke Flowers",
+  "age": 43,
+  "address": {
+    "street": "Turjef View",
+    "city": "Gofifof",
+    "state": "WA",
+    "zip": "31324"
+  },
+  "contact": {
+    "phone": "(602) 958-8309",
+    "servicePhone": "800997866"
+  },
+  "birthday": "2005-06-13T01:04:42.102Z",
+  "ip": "193.211.42.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne wasru figine le wepe anici letwuwas gaibzo jogdu kawo ni uvodaluga elufuv mebmogduz gewu idim sidid. Lutro teb no doaw vot ca modweti imoditok kin bitnulo kiewoaca zegbis bawuk. Fukigi noj vu cu jowgalkis tol ribuvoc elu ezujilcuw wauze wop zub pouwo vos cit su. Co irzita luv ag da zupeco wifaf in posi kikojvuc lotanjo jirosa apma lol wokitri. Ti marka hotap om wo kuttobaze liwop ukwufe om ji feba pajcaj. Ho kujub uhhalof wur pe lof ruvarwek sosihite ijciju wi set miz.",
+    "bio": "Ohi siegudif lowoggoj gujki ka iroga liimka uhgep guvsi agizemu tupaf iv tehel. Ofusog cigpiiva abvabej zojuh uswalup oliawfen pebjudvi zej danu si gu hujemep powa ik sifimjel nana ij. Wadsa vel pabanvub rom toz nofa igapaiv lectu keza mu cesew hob."
+  },
+  "apiKey": "74f6462591efdedc8aa5fcc274075795187ffd802603dd8e0a40c05c06c08af2",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
