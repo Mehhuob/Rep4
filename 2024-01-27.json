@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Doyle",
+  "age": 40,
+  "address": {
+    "street": "Zahipi Center",
+    "city": "Geijemi",
+    "state": "IL",
+    "zip": "83366"
+  },
+  "contact": {
+    "phone": "(767) 487-3628",
+    "servicePhone": "800484499"
+  },
+  "birthday": "1991-07-23T03:52:52.583Z",
+  "ip": "176.215.167.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Copot ka sajcab edaf fujogjuk vo kaf ome vo rop dafnutuf no amibofot ditajif pecumas. Va magsal evebumtoj tulpu wiesaur da elsin jakwuti budjimos kenhu vaspuz fol. Nijadmo vuvjez lif jinnaj idunef ipubi imi gi pitvi lom awe temfivoc degeci bewzoh jac.",
+    "bio": "Isulac nido pamwic dijog sacjopo ha ceze bafa edijaccun gu seri podkodla duh puhi petka ifusaghit. Juvmo jokom icdo fa hopuna vi ozojoeb magefo dafwu suhe ni soagpeh. Icvobma ija vomo absiju bim fuhibrap abiwuzme kirmori etevuksu ci hogo etze kocowiv. Hiese ap ehale lawa gebtupod vavrapwu dotpa lu ip nos ebhewti besbucde. Vodzufji cepam gac napori vojoto kun cirma de mel dumarcab jo iki ranoos vun. Roh cud ne izzool ovarivaj fozfe sofipa ipgewu nopgadta we witdo fujomen. Licuj hu bigfemrul efuuhuap memefgak soig semte mipo lob zaz vubol ko filzu orinoj tuguzzo hohga leboco."
+  },
+  "apiKey": "47d1de51c0c030db64652e0b392ba4caa3100f156fc1b57adf40d2f0f499c6a8",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
