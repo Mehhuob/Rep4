@@ -1,0 +1,26 @@
+{
+  "name": "Dean Stokes",
+  "age": 46,
+  "address": {
+    "street": "Jige Pike",
+    "city": "Savsowak",
+    "state": "WV",
+    "zip": "85975"
+  },
+  "contact": {
+    "phone": "(233) 965-8950",
+    "servicePhone": "800841275"
+  },
+  "birthday": "2001-09-10T09:25:38.640Z",
+  "ip": "251.206.123.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Bihudwon heizhi nimip ovre zir tozurpet havo vagcahut ki aranar lenru puwobe ajcicle nekfu. Huej olcekda joj hana diwsog cuw icajihduw fuk das teriti ti ruvhu en feecsel. Ru hid ravnin igiek judfi ros te uk um bih evi wujogise zobour. Cemejig gizje con miw gejvos gapo furat hoortuj ab ta heb los sosa evaloj vo.",
+    "bio": "Mil havkuwvar bul rah pe gen wune cetli ingocu vow wesej cefuz. Lifusne olfeob zacoz tecdecfu bub jupa su met vipurin hoc ocuf gijdiru icititbep lobef fedipas hirkeker def zudo. Dasku wiop etu geselodud hil dos nezrizod me ap ale cug kuwuhdim vep to conrueco."
+  },
+  "apiKey": "8e863913042f261c28522ed8e4555274b41a960a2bc08227e85816ee793f67d5",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
