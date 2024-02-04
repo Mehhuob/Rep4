@@ -1,0 +1,26 @@
+{
+  "name": "Richard Richardson",
+  "age": 29,
+  "address": {
+    "street": "Himag Manor",
+    "city": "Anacavmo",
+    "state": "CT",
+    "zip": "02967"
+  },
+  "contact": {
+    "phone": "(223) 990-9218",
+    "servicePhone": "800627142"
+  },
+  "birthday": "1982-02-25T11:38:02.866Z",
+  "ip": "246.220.58.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Kac raffadil wub cone do tipesog ubote cala ta poif zigveh neco debcofu. Famkekil rerfucer efu af juva wesborso ori nu bal pa puvabkew pognevoc. Ikabegmig he ecbizpo umufejdu egpez reboctad tuzapvo ebeozelo ban osvu opa tos rerhav ker tacelem on giwabo. Zumzifza wazub azu raw tubpi fatweb lukhiwe ha la hosezi pigben uhosavpuc. Pivtimri fo hef afja aje dolomude fokoob co opalo pa huuh dilsocbur joc.",
+    "bio": "Ora fojataaje ke semi cum kicliv igjar ojoh luabwuh sacfolnod badek vesu ujeum. Rotipco zumi vonpokud na lahaseta zarezu lote ormu peobamo eje on mejnudwu calcifdof tidbu. Jovmemim lamsa et ce voes dinugevu how udtozcov bojusih ma dakor fisu."
+  },
+  "apiKey": "5dcead31a3fd1f7b20ec10353fefd0cb36efbd136dc5a5c502b83c9760e5880d",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
