@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Foster",
+  "age": 55,
+  "address": {
+    "street": "Jukto Loop",
+    "city": "Bavibaut",
+    "state": "OK",
+    "zip": "42920"
+  },
+  "contact": {
+    "phone": "(673) 773-4232",
+    "servicePhone": "800373454"
+  },
+  "birthday": "1964-05-03T09:33:26.575Z",
+  "ip": "244.109.148.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Juh ru acu wavvad vides wore de vup bun pumvazud voema vohib tirpizov. Hal kogfawcut aweho zenapuopi kelpa ebwaf ni tinlo bop lujso upeko vurluz em. Uh di cu kisedok gijarwa wiptuvdo bojla te sit be kibos fupi afeozeok rorpehrop omfev.",
+    "bio": "Uwaonicu vawgevul damzoj por ogdehep ke papmir opuzofe nokbi nawkohvoh ceodujoz evca bi lo. Afegilon kalehdo lonposim bim vupur hiih le gus apem ped nawom loz cortoij ulewupri. Hajuw kussogfi paw sinsotcec fejpa tev senosis namisi cefsozzov emaje eldig ke mok juko mohirka anu. Fim tu tuojoto dalunigev wawbarom tij if lane watinraj fawrudi wogevli wiblopac."
+  },
+  "apiKey": "d7b4a41d6b62c706139a62c002ef6de7d7f8c1918bbd23aa4bd45efabcecd1af",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
