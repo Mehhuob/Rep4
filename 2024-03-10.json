@@ -1,0 +1,26 @@
+{
+  "name": "Derek Chavez",
+  "age": 28,
+  "address": {
+    "street": "Sahe View",
+    "city": "Suovamo",
+    "state": "GA",
+    "zip": "19859"
+  },
+  "contact": {
+    "phone": "(620) 584-6954",
+    "servicePhone": "800945582"
+  },
+  "birthday": "1996-07-20T02:31:42.562Z",
+  "ip": "42.255.33.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Kobohat batrasmuc ga da zerso vawile nibap rub muf dam pijoj wohuneri uvbokmoc. Obavaog et fobewta ajrecemi wikezhec gauwe ja od joowe uzti voad fa. Zatadib ehijicvep tucire akuze dot rululeg ahuvat bovuse vowucad firke linhoela pujtulo elefidom. Noof pu kof gafnaceb tefrad ajoso piakoso da evidighe idokebase mibod hu hoccedwet kijcid.",
+    "bio": "Iwifood bas beb imdo dederi tep ufetuz curziejo oj gehwug omighe asvof iwiajpo il lofjiwoz rolbos ofe. Lusrep zohege jeswam fullef kusle ka itatah sul elpitba ilazibdor wa ofogeliz. Sizaab cotlikon bew namvepuc nibecute utsa lin bacvipcal cimdohiv me nelwe omimtow wez apaceuzu hopota."
+  },
+  "apiKey": "ab4a2f395fd5f430900ba6d5604e5aeda9a4e3d26a32898decb918fe4698ddd6",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
