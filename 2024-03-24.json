@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Ballard",
+  "age": 27,
+  "address": {
+    "street": "Mijzes Path",
+    "city": "Jubazeva",
+    "state": "SC",
+    "zip": "07996"
+  },
+  "contact": {
+    "phone": "(920) 515-6911",
+    "servicePhone": "800415255"
+  },
+  "birthday": "1970-08-08T08:39:16.748Z",
+  "ip": "221.121.83.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Hasuw pehupu mo dosupguw aboevtir gon riec aca uvafuuwo komab ko wa bel etata ewoehgu. Pi lodcure veb lirawfi izeohonaz da leur vari lat ruwcon me ru weccaebu he va timlud nisotegon. Zalufi limanga bufmuca cohatevu zivu pogtife amilinu lel gawahfep abhet ej vin.",
+    "bio": "Iw omoket hanpos hellu zubazdo gupli fa sa sejli hubok jo lun gemaf webcuza uno. Egibovguw oz sicji pub icuse kulimni hiv olvamgi ru kev ilowit gesocjat nobbacow tiwo wopotgag ovwi. Gira dubedu jup dop rujze savu eluhugpof jabar dawcanuj uhu reuwcam ihe gurutu."
+  },
+  "apiKey": "276d13c58da026c1176cf761fca73b1a296b187665afa1d910e800da322b1448",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
