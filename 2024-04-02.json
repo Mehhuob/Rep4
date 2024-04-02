@@ -1,0 +1,26 @@
+{
+  "name": "Angel Hogan",
+  "age": 63,
+  "address": {
+    "street": "Odezi Parkway",
+    "city": "Amdufhe",
+    "state": "DE",
+    "zip": "36345"
+  },
+  "contact": {
+    "phone": "(764) 448-9875",
+    "servicePhone": "800335998"
+  },
+  "birthday": "1968-12-17T07:25:08.671Z",
+  "ip": "112.64.64.94",
+  "foo": "bar",
+  "profile": {
+    "about": "La mil bofsozca dum sipesoc wi sup ge hu ziisein ase lapa zohiim ariahi su wigjo tamijunu. Micum watpe wi atjenma vu urebuvo racmih sos bama bomdaf sirep hu epilipu jen. Tud anote ukalucej zecapkot lu teburuh vasom toges alzidin caepnor fubeoju mocfer imi ewe.",
+    "bio": "Iphuv ut mese so ani ibahko jucwapki me cofpujut ulanait be lieziju. Ko dirur lupimja edivedir fireku monkumav hebaoci kolik wol rohvuoha lut cailvad jo giri. Ahwo isebe ezezas epaujle jub juhum fidof acdiuvu meahasi wahlit fu cubconik umaculo ajwo bo."
+  },
+  "apiKey": "92642b0dbc02f54af4189ae2b25466afb2b88375b241be6cd0cf6e44f9e1761a",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
