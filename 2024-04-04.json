@@ -1,0 +1,26 @@
+{
+  "name": "Harry Lopez",
+  "age": 52,
+  "address": {
+    "street": "Pavve Square",
+    "city": "Nacmiumo",
+    "state": "MS",
+    "zip": "09676"
+  },
+  "contact": {
+    "phone": "(771) 891-4206",
+    "servicePhone": "800731688"
+  },
+  "birthday": "1979-03-05T06:02:32.506Z",
+  "ip": "218.132.84.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Murdego wa noroca gedov evabere zafberpo meg amsa ravu ve bojasuci bekziz uru kile palhu. Wuv nah deg tet goimu wasmivu ihuteso fieg tutbucka sabew fab jeim evipuwob mom rudpa weginew wuv. Tuzahhe tadgiad gesuv pujper jaseflav ropa zo buv esohumpa sejdun tagassot usheztib. Targatke gued mijmoige aviliduk jop vazi hebagi liega it soji bo delu juh mahwescu adi.",
+    "bio": "Oj soj zuv rignekil ba borejaj cok iritu keij ga lezo cogoli sulkabam bipcig. Surbuj paur townu cihli keccujbo dulevip vavopaz eca dop evobota holij sake kodna cag feh. Bubreem delewakat boognoz ore ne edetel bak finav poknimos cecec vafotpug saf web. Mulonoge gavopa cuub hog zeace azehiziwo amomo puerbo lag mopat aru sa lehu jus. Godorkuv dosesep bolag kikfo zup meggapre varularih oc mapdas wu ij lofec. Hevo donbocu fi vuceage wobitum na olu un nirvec mu mij ilaibeji did la emri fidgokfo."
+  },
+  "apiKey": "263e4c1342fedb759976012b64b60e8beb610f266ac0a4d19201fd298b8804b8",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
