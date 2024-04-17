@@ -1,0 +1,26 @@
+{
+  "name": "Jane Caldwell",
+  "age": 21,
+  "address": {
+    "street": "Taaso Street",
+    "city": "Buberic",
+    "state": "HI",
+    "zip": "88398"
+  },
+  "contact": {
+    "phone": "(906) 478-1456",
+    "servicePhone": "800186595"
+  },
+  "birthday": "1987-03-06T01:24:06.515Z",
+  "ip": "208.219.125.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Jejovamud ba opahas ekere do osehsi pobiddo duk reag eho tije ludtevi ajecafiv takiv ru geb dalad ubarip. Fab ja ha pab zosava nusebu ro zen cehusu nigoffa berizzew lez nu zupiweled oh. Detle wobvazpi pimisi woge vis he tacfisbub jamet pocveduma cojucej wimora paz var egwuro ejupotda ul keot kijfok. Pe devpape uzanli semowak noton cohawnum pasak muc gu wi nos jufko puivli lomuk am. Ugnep puzacha komdek rul gojik hascudi duned kicnosisu onra faec ceguceilu hud otejud ofgus. Dehvop dulezfiz mipkepmu jo rewi le bas maf tu peppevru jadod fa ukmene. Gegur gi cabhom juj tumbom utoku ruf vic ulo acolekzuc bi juw giumsos kah no jiliz fajih.",
+    "bio": "Piptaho omutega sis tokseweho varjaz kagiru nafatfoj ita zuviz nozet wa hahaig colwec fin lazpojig izi fisofab. Ap cam cekzenas necev lek zajika mujsamja se buw vam pimjadiv eghekul abofab. Rooh zunukwaj azep pejigiigi uk suz dolvejom jikolsok zakevcir fasorwe meekabip wu derufke colap deju zis zecja aciri."
+  },
+  "apiKey": "cb30f7856ff250ae6da6b1dbf3e993d3385bdca3d56aa6660beca64f323399cb",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
