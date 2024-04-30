@@ -1,0 +1,26 @@
+{
+  "name": "John Vaughn",
+  "age": 18,
+  "address": {
+    "street": "Sugo River",
+    "city": "Litaas",
+    "state": "AK",
+    "zip": "03522"
+  },
+  "contact": {
+    "phone": "(759) 271-9311",
+    "servicePhone": "800475177"
+  },
+  "birthday": "1974-01-16T04:01:52.598Z",
+  "ip": "2.42.204.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Ponkif mabek ze da mozhi julzor ca ni wacaf jo sokakkec dideug rawul negri zemhihdig tumpipu zet. Wihpohcas rilab nopo wa epavu funnate ajoppa illitap zelcug zuzour go pazew. Jifol wimpurut cod woune konlimjah bedav kaj ripow gi fe mipma lorrizho vu wul. Goz noc jozapa upjup comajo muhieje wel aw fubanvem ko oda fum jambu kez.",
+    "bio": "De wek apehon lututen konataen sacsahhol kosi zocuncas vi gowzosvi zoed bih cunek kakma jeniw lervob. Benazisoz popika uv ced iwdihil dimawaga fo bukipo odza dacuw fafenu faabbu up behgugki kaufusu kanilob. Fuotecal wume ipuhag azusi cur dulinele re weztiub da ibahickah ka ki veb seage ubuv. Cumwoha bakep sen sefra bi hom fiuc vunokkoz tuvbajrim rewu ser bug re sor. Ze lutivogon bihlewazu ca jerwale gotreem gahah jiba zo cel ucegaj wu fohu. Cat hettiz fanizune gobig koad vihopjar wuhhiv vobittav mid faako kasi sel ugzaw te si kes jaf. Liddug doamiguh keovpa wacpup suhutsa su kordi muappiz hin taz kucwezwil hovagam gitmatvuf akiwa ewowapet."
+  },
+  "apiKey": "a3020bf5aeab3d782a859d1c72fba20f59981bd862588810e2611f715f02b1f7",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
