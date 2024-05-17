@@ -1,0 +1,26 @@
+{
+  "name": "William Holmes",
+  "age": 26,
+  "address": {
+    "street": "Ibiru Circle",
+    "city": "Ohzizbo",
+    "state": "MA",
+    "zip": "40384"
+  },
+  "contact": {
+    "phone": "(707) 539-7042",
+    "servicePhone": "800413621"
+  },
+  "birthday": "1984-08-09T02:58:20.065Z",
+  "ip": "68.151.103.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Cesumeofu lecatecit muul neeh ijfapon mennuc fumijwon lah zowul du socnez te rujroz filiezu. Buku gawoheelu gezziej su ebewiguk pimzi riw dordibsa humeasi pezrav kujka pivu. Natragap umsa tufbadlam kij poug pisevta umkamzo fu icla zedoj ugzogfi hazri. Cuf hibosmif sizijo rofbac zi get ino gu dag tesda lah ce vuene iwnodci sivij harapwuc him.",
+    "bio": "Venej ukoiwo mefo dunajjok osuszu heaggah oljiwji hojenas pobnuube ama rujmuopa lakal suras tavpir hoz kilufapet nunoda runcowi. Ir mujwo ebo hukezan mistu jozlirib uwkuh usedor fo mereufo ome tohar cemlazuz. Hihsiwge lulom duc asefa okiwoz ane dan di acefa acocoz da bumcusah ir kojrilo kutoha af. Vuahaido rohev dapadijal iw pucarec jifaum rebza bef egko fiz odfuctet ref fe vobecnur ow fiz nutjog dul. Pizi ju ja jifag cikel ruces ge kozgutnef nod pirhiom coohecew jalgebo jukolde zopiguh du. Gos nodcizra saztip dag uholu lut tomikomo ni duwo nufasa ebezotno feruf ponzindeg la ihezsu pek izalain."
+  },
+  "apiKey": "ef025bff4726e9127e954d4488554270d87e488f0085a7a730e5c1746322a328",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
