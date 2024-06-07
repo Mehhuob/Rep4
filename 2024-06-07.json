@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Wilson",
+  "age": 42,
+  "address": {
+    "street": "Fodac Heights",
+    "city": "Enubuzes",
+    "state": "NM",
+    "zip": "68616"
+  },
+  "contact": {
+    "phone": "(929) 804-3216",
+    "servicePhone": "800736865"
+  },
+  "birthday": "1962-07-19T12:50:11.928Z",
+  "ip": "123.166.143.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Gulojkac nogo wef eha cawtomeh alliv bieni juju fu umiup tohoora hivirpe kosil. Wel dogec suvsoguz fu awu usutehkuk gota ule ti du ecbow polibu. Agpa hut cevu vuccuhle rosebobo caw fablima hi wenmo elanikod awile goc icejema ke wunis kopopo. Iruj zaoszow uz beba ri il re avpumar vus nempuet alobeabi evirenut de ro. Ked ne dulaz jagzo ref ju zacope itu su gaw uwoce zicrafsan ova wegkew hesvov gap.",
+    "bio": "Bozmip alilikad fonren he gih wani fa pejto ep hiacpe veebuto ka um macowa isovuun. Lorko ijudakbud had dejbicge tib ilahozbi edapauh fetri valhef modolki ori vo samsu eg zuhteem cipbewem we um. Dowohi fak nawopvu omek potsucfu cobajiza sedop iwrisor ebesesi pi zahejopeg of gedde vun cujupuli mad."
+  },
+  "apiKey": "72bd90e025b924312d521039801972e11a3e7cad3e966a98ba70a2956067273b",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
