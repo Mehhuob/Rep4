@@ -1,0 +1,26 @@
+{
+  "name": "Brian Wise",
+  "age": 21,
+  "address": {
+    "street": "Wobri Path",
+    "city": "Ragerpuk",
+    "state": "WA",
+    "zip": "32059"
+  },
+  "contact": {
+    "phone": "(903) 708-5554",
+    "servicePhone": "800688566"
+  },
+  "birthday": "1974-02-05T11:14:33.418Z",
+  "ip": "101.54.41.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Ap otuombul ekuafsig renhozniw pozeltum gi gupulap adarof hu cuc begunged invuvwu lecpe gitkakgih. Wacuku ponudcer wazgos ewufa wirnu jes vokid adrokton cupem ugta fewodow paw sivlokgo. Vizwebeb bukuhuf ju malot toles lak lihuf co dumohu gehunope ilese eh saran uwehe ug pu bapbure eb. Muko nurtaud vavoskus cepkale cik soih pov porwuc ivvip gizo otuike zugiv. Nose wis fib asse hah erwi nucofi zabluz riov sos hewalot jav bul muh sac cuwag woez cibetewu. Rutah esidizpe ecasalgen feb fuhmi afnuk babeskiz duje wet mip wi wumvu cooketor omu el.",
+    "bio": "Nac culepus lemil etijabsel hanuvoc idufa mija wusivi tu jikni apa jeeg bon mubemma. Ju kazbon tulner buhnadke atiliize tagsezid feelaewe mingo zummoriw tug cugwusjit kih fifihfo nul jewew no tifonse. Vocepodo riefu zawnobog figsag mazeimi za kahwa vi jaz demmojat paka ufuma jal wi cor tawrat ma."
+  },
+  "apiKey": "fe84833b133c4cec01e8892badec8fdf03e5c932c669d71aca33ba938a868539",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
