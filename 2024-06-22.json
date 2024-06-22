@@ -1,0 +1,26 @@
+{
+  "name": "Albert Ramirez",
+  "age": 23,
+  "address": {
+    "street": "Zuzeb Pike",
+    "city": "Odwejel",
+    "state": "WI",
+    "zip": "82083"
+  },
+  "contact": {
+    "phone": "(983) 412-8984",
+    "servicePhone": "800579425"
+  },
+  "birthday": "2002-05-09T10:37:57.338Z",
+  "ip": "202.145.151.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Sowig nikrod arput oc irbos sogvih uc piab suk uhlu jalu sul san vepunun hutebad av iko. Urovocje lolaw hikfa pow ve gemojpov lu lelsi rurecman gebe ur ifuva bud med. Laev su cev vun futsurid uhowoak tucuuvu ka za kura ug de pinidej tulji geefi jeno upa taj. Tiha zom fuso sawup okbu zuwukek galrouv gebotoh sumol munuru tec husid iseefa hafagobe wavo. Mazu pata duisako hinloh kurwe noz dovak wajsezha sesab huwbal inisa zoudi beriara pewup. Ulhehab fevu cemi jori hub mejdu ri oshi wohdowol angej huc wodinpu bunbic.",
+    "bio": "Ka kagaza vijgut elorosi ijsav mi moiri sig lo nisemov huzo te hu jagji hu. Fobdicco vu geavugul honcuopo johmi epepiz zojap jarpuka miref zihaw mianuzo anuuv. Votac ha bioma ivpuuj kozzurdur mup uhal ogarafa boskozreb lijupe feje tol riru doru geow. Bud fuofi waj mufmoh dehre nuzep umi agrocbem bogetot fujlo an ve reesa ibjuis we."
+  },
+  "apiKey": "c33da3c176b46e06c4c64e7d35c8c9df5048c2c3c1135baae27c50544cf52b25",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
