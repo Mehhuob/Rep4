@@ -1,0 +1,26 @@
+{
+  "name": "Marian Hughes",
+  "age": 28,
+  "address": {
+    "street": "Sakdo Street",
+    "city": "Apotiwe",
+    "state": "NV",
+    "zip": "83726"
+  },
+  "contact": {
+    "phone": "(636) 960-5735",
+    "servicePhone": "800386629"
+  },
+  "birthday": "1992-09-13T05:20:52.308Z",
+  "ip": "117.85.169.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Ito uvaitu fohislu budil pucsopadi ecu saatkag co ohi ilocussa opluzveb filoabi din vajeduf une. Aw ke ohat cug puv nasmawi emizape pujno aseke dur wemetedi at sodoc uhke og. Ari ari fudfi liziduj mes peiluib rega cuelaaf cat vep egusagedu zuja gi iteucpe. Juula ta enu hagpa mi heozidag suwan to cunza vig vowseuh imu bulu cueh urnaaz ivuole tasnigna madna. Rivac cemede mih vesli ar nockujos muz fijbaset zukepam la biswug tuz.",
+    "bio": "Ca bafo vufem gu sastido zorop jinhu dojedci guvneh zaw ovefic tik. Enrocgu zeis ti viperbaj nele davemovo usafiw suge sa jujseba ef bit. Pa mub haro adilarus uzkev pucav zow ihcube ne vaza orba jutap."
+  },
+  "apiKey": "82e682affba3d03cb2c9b805ecd405e80c234f927afea917203a73c0ffc95742",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
