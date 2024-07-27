@@ -1,0 +1,26 @@
+{
+  "name": "Ora Brewer",
+  "age": 32,
+  "address": {
+    "street": "Bakat Pike",
+    "city": "Wofenew",
+    "state": "CO",
+    "zip": "63820"
+  },
+  "contact": {
+    "phone": "(216) 511-3475",
+    "servicePhone": "800278392"
+  },
+  "birthday": "2006-08-01T07:15:04.608Z",
+  "ip": "191.159.196.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci gewbi ev da ik manunnel ekfior de gebog foc to soni okutudi fihicofe pet do. Lodfe iku ve tijol so horfo fifate kiba hibovob sivvu al tupdu bacadoj. Cigcak tijkimpo mottewte ruufalo lir uwjana ozfun rof ibu bul vobej nuebogim nu aswog af keberom segwew.",
+    "bio": "Pagogasor ecna sozismu ke wuriro ficun reg lazcaf opatutod tat ci ifdagra. Lerusno ehuumecu hoewsiz lotnuzivo pabir zi ritwehez li impogsig loigetan pumga paopa da. Vabuhac gu habgo zatdi savutuj ib cattav lulvicuh pafkoc vot mufihug idomimmu az le nupoun fihnu jif. Alasibaf hetnufa heco oba cekjo johinij juz hecvo co zensaj ta inehoh vejje fufbokfak."
+  },
+  "apiKey": "e93f2c5fb679b719c4a311680b3ceaec746e99a82758633567876e0499da8f2b",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
