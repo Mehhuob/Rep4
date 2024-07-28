@@ -1,0 +1,26 @@
+{
+  "name": "Carrie Moran",
+  "age": 19,
+  "address": {
+    "street": "Afunus Grove",
+    "city": "Bukaefi",
+    "state": "SC",
+    "zip": "59034"
+  },
+  "contact": {
+    "phone": "(804) 907-5307",
+    "servicePhone": "800231564"
+  },
+  "birthday": "1960-12-19T11:42:26.751Z",
+  "ip": "15.68.210.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Engaufo ade supa ocaseofe rulbublan jelnata wutuv ow kijubip os ti dipupeaba suzruir fa mafpu. Hasebe adauz kom uni uz tiwranvib ivu sifrov leopo es ajubuh tek oceiz id. Nodoki vaacevak ov tas woc pehvag ocudu aj irusa aftoru oduhe kafeve ikeafu zon ecuve durepzo. Nadicfuf caporba kosamo koatubur hi hilkuj sistu umo batinot kusigzut wecok paseweh imac.",
+    "bio": "Oke sil witbaf lok cimna kurven derelis vusoc memtikeb gukeupi aruwazku nesehre. Ris kiwag ow hoid tifuav hejo oni zaes sijocwo divjeiku agu sumehun reuciga ojogum tonbet hotec. Uvvis vozzuz ro fulape fi dirvap ucinazuni zidizdar rim ema dok kazemsi kuzadnu jagdutud kize."
+  },
+  "apiKey": "c9cbfec3ba93c1eebffff68fd12df7bc18538841b214ab938708f58af15f82f1",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
