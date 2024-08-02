@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Smith",
+  "age": 55,
+  "address": {
+    "street": "Soamo Loop",
+    "city": "Polipohu",
+    "state": "UT",
+    "zip": "01681"
+  },
+  "contact": {
+    "phone": "(804) 705-3800",
+    "servicePhone": "800455251"
+  },
+  "birthday": "1966-08-15T12:36:13.905Z",
+  "ip": "56.73.185.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Bejses keb foezomo rututu ak saega wosit hahuguj dabibbup edu silev kat zegubak cegaleh de zoomeka. Zagwekah be goj husfofton opesuvuh usipoz cigic vaz velkoufu tileki su ru. Iwu faj biwbakuv gi culuoje mohlow udupik ni woshe fabahizuw cael penofu forac hiconnib ve. Pesebol fedci peugvul if zifware cidmawzoc omdo fomheti katarag azaduj voju uho kejic. Lizso boas toliriug lewcofug fazizuw webuho dilorvof oripul beob ro ridsoeta ha evefe ditnuw ogniaco jes vokkar hofu.",
+    "bio": "Vazowode ashova saakufa zeovi log kusemo kovre fuok we puwkeffuc hujumova pa binho lohnu juecu big red zickeebi. Titu fi sovuwubi geavat soavwi poedmid linej del wersolcu hurrosek uwawadraz sivobu rim ozoofilu pinap wobizop. Kesu fe cih tijpupe awofonid iwiid iwi ud gaemi ozubilip zuj moc bakuvo. Bi pul so hafuvo kebino doirnug keoptov sisiv tisdaftu itliwa atadok rago reb suhug aricciw pamijeaz. Wa win be namse novciva kobap uhoj ji jol nuihpo nivapo vudotu voiz."
+  },
+  "apiKey": "aeac25fd75cf7bd4cf97cf32a26900e6efcde26b6b921eab1de9c46b71d5c276",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
