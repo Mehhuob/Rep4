@@ -1,0 +1,26 @@
+{
+  "name": "Ian Martinez",
+  "age": 65,
+  "address": {
+    "street": "Rosan Parkway",
+    "city": "Oriniehu",
+    "state": "MD",
+    "zip": "09003"
+  },
+  "contact": {
+    "phone": "(339) 348-4684",
+    "servicePhone": "800798846"
+  },
+  "birthday": "1964-12-27T04:19:33.370Z",
+  "ip": "181.210.217.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Kursihe gew kizis wenez zonrepjaw wizuh pe ofu di kelij gifo anacegaje moelivu eke ah laimi ciskeg. Lusmerva zacze ijruja sej legosnat favpod tenvilaj ipi larcuica ru no megguw gohojo ogze nofossal tu tofule be. Epa jubucic erlosnu ibudowsin rok wuro bitaz mopumup kota je gu wodmocu rihdug zanpiif himna falisoefu.",
+    "bio": "Iluaci tetoki be fi doz gahde huh nifageama fomrazsi bur luke goozdel mihnuapu zipwil imala jaj ze ja. Cigdilrig iphehu aka wanpovo mazifufur methu faupeaw udugeh coj hakfacaw vuolgo to wono jarocci. Suetjoj lapuh icutuj kadve puhu pam kumkid wondovsu dadrisoc fozwadoj vijhaba konig zevibnot."
+  },
+  "apiKey": "c7438ec80383de6f0fe57aed53ae2c2c0d8e8bf50761f2674e85fdc8a3f4ca01",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
