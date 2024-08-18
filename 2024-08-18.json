@@ -1,0 +1,26 @@
+{
+  "name": "Ann Park",
+  "age": 32,
+  "address": {
+    "street": "Soful Circle",
+    "city": "Viluhol",
+    "state": "DC",
+    "zip": "80533"
+  },
+  "contact": {
+    "phone": "(472) 450-9049",
+    "servicePhone": "800955151"
+  },
+  "birthday": "1974-05-30T08:34:16.359Z",
+  "ip": "212.55.46.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Jigfu roz gekudu si hitnar dibpinju ju sowwa gopacjuj sopato goepnoj ku madiju uza nuumnob ebenomkak tukizvaz jahten. Vudomdaj lakneb banemdi puucpu lafetloc sumpa ji canubma vokke ku rab silwo irnigbu patilo hif. Besof wabud hufseccu wi ruva beg dukibfu ligom kinpi wu na umufe.",
+    "bio": "Cotse os cotruf ciwdag wewvahapa ce set li po besazwil certo ra vijocdab rupefof komu. Ihbi kaolwos lafcup pus noczesu cofvemoc daeb ler nogpefva mutdovuc jobotgud wib ic tegtaw. Fukuih denabi ro mol ta jugzupob iho ker lebjabu kitikoz hotu rusowcic sib isoviha da mega oruzeike gagijaz. Zabgutjar webomom linokusoj hauva ri touvfes eczacjof jom mol lik zaflupe azalede ecrolko bi honme vujmohef. Wu forenawa nihgupcem ege vit acagujo demeg gafozpa awdac ase iko gop liz vorwehwi vurhokbec simo. Oz fo cogwat je ri hazaper lummetbe ekrojo mudni tad li zedartak rusakem ficwaffud dohatil ril."
+  },
+  "apiKey": "a3a9d776b92ea588be85c6164640f55f7fb5f2499eb50983c1436606aaa1064e",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
