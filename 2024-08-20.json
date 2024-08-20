@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Floyd",
+  "age": 21,
+  "address": {
+    "street": "Nucje Key",
+    "city": "Hovioti",
+    "state": "CO",
+    "zip": "06426"
+  },
+  "contact": {
+    "phone": "(633) 573-5494",
+    "servicePhone": "800342155"
+  },
+  "birthday": "1981-09-28T03:15:23.356Z",
+  "ip": "183.145.138.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe wenurpa ir pifuodi ulojinu aheefolon vi ujrutfe zu fecatu ti jof wocehi le kam facecav gobmar udodo. Ki mulvacbel cop lefibe jacso bi di ni okoca pat apaki nopsaalo uka ka cevbej. Ja jolhur miizedec gejikpa beihed keniser ugruvzu nodsin likigo wiihju souha ot. Nafdarhec har meucu wul vu gofoljic kapbaig zed hiboji viumu guv zavumru relu evme hizum vosi na.",
+    "bio": "Dewmewse ofiigaire ussip wo wog leovubi go kecib kagup kuikji zi pagcu bic gu dekmev. Dopowoah vuvuor ku favgeg ugheeku dok eto tisuz fij tu fohef koki edaud zifsile le. Mohpap olkukogi pon li nonpospi biw gan diba wicbov ze uj vanivota tarhoj bivjifa sanfa uwico. Wevosug calfa ve himhub itiweju ini dabuvvih na sogudoge cit wez du za eniibano huwfowro wumfag. Baecegih mot bedtek niddal ninu dic og socudjas rug coipi bem mef bizgem jaw atsa ha pamnem uwku. Luppu vuv ikueplo jerkitij sa ud tovo ruuvnag cifsa tuzizir gipabe jugatza jifew oti ubudu ni awocu dafal."
+  },
+  "apiKey": "df70a9f1aeb9d0cd3155d3bd307c70e97df5b8a922ca6de5e3d86aa1e7f7e057",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
