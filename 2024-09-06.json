@@ -1,0 +1,26 @@
+{
+  "name": "Martha Armstrong",
+  "age": 20,
+  "address": {
+    "street": "Nashu Mill",
+    "city": "Suceju",
+    "state": "NY",
+    "zip": "12173"
+  },
+  "contact": {
+    "phone": "(489) 891-9978",
+    "servicePhone": "800755111"
+  },
+  "birthday": "1979-12-04T05:31:52.488Z",
+  "ip": "130.66.36.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Lub nibweero wur fizsu muhobra wewa wipujo ti veg dozo icukwih rakop oboc deoto dugikebuw icemosow un vimeldi. Ji anmuma pibak se camel heuwi jifo maw lunehaic pehoza ace ahohe. Baseori vaw kadbahu jej widazafof paksatkuh hirwam fi imloavi nisojte kofi af wuzjeibo cego jes ja do mijokocim. Aso ef nenud wituv ne fuztok nof kevtu ametus po hepkipas siihnav bebobje colca nojuz. Evedin zajomvok gav sug cubhusid fejni co juib rilbi muvdud wazajudo jatboca. Me ed maafu feheg to baf ubwej fudgovpi faze epuju givuho etpovofe go vehoz musomu venep retuljof rip.",
+    "bio": "Lujas su siorro jovedeh ofwefub mumot tabji fugfegtif ohotu su rew soltor fuhlu unaeju finige iwzij vumba. Maap sohip bitoig ipvafel borar carki sar vezcup zantaizu ji guwum ca us fustoj licozic. Hi jokozlo anzib zourihul zu nertodor utdedo fof ihdal osdaate gisego muvan junu nupdaid co uni noffe. Ohahu bek pe bajezpat kobtazogo dimlu vipebbeb vun zevmec kimfop zul idufa. Rencuid sesenlo kibe vafrackaz zaf cin isuobe bakcejet woz tebrute mobjevtam abicu kosab. Repatobij nob zekuleko ve kute cilu aj lucazugo rarimluj fonnebac hu elu vej pid foref afakak neab tutna. Ja zueletuh rafortum rez hez rac bicil hejtare papuim cupmauh gemarapa ohuegurat sakowbew utvo wuz woneh."
+  },
+  "apiKey": "a7cdfdd7e60b568ae3e754d7a321e2a2c75e2d83201a9f02c08fa27635edc488",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
