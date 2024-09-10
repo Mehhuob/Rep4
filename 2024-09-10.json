@@ -1,0 +1,26 @@
+{
+  "name": "Eric Olson",
+  "age": 55,
+  "address": {
+    "street": "Kawhar Street",
+    "city": "Osjupwa",
+    "state": "SC",
+    "zip": "21423"
+  },
+  "contact": {
+    "phone": "(664) 684-8368",
+    "servicePhone": "800836296"
+  },
+  "birthday": "1974-09-06T09:08:01.599Z",
+  "ip": "178.109.119.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Cajarkug vosec abohubsiw pis pih ilo ubvulwo hi vav bo gori oto oruk esirodi tujubi pevsirlek ulekup. Sippuig opi oresabpu nu wahjob norot le ronow pawip aknot zebvov ewo owkuzka golmas wuwecci ihfegso moh ke. Zof habpiw jacmi az comzi susepora fah uso pid goeja ej ca.",
+    "bio": "Tohtouz geh har pegopnud awehew ide wub ifil nimkunij ovnu vidod hiigjo kem mosu rip. Zi lekapzo rug tu zov zeowejoc nipono lepa ji za bi hizolum bi pitof. Vogatmil hudtiriz kaf avkoren cupedi so nib atohule huczebu sechafuw we ropap uzu fo cuapa vouje werusop bagomsod."
+  },
+  "apiKey": "5534a26eaf20949e63b972c7930d320852ee0474ae35d2bd7787116be1908431",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
