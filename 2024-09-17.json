@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Gibson",
+  "age": 24,
+  "address": {
+    "street": "Guhta Turnpike",
+    "city": "Awoojil",
+    "state": "AZ",
+    "zip": "84859"
+  },
+  "contact": {
+    "phone": "(645) 837-2078",
+    "servicePhone": "800436784"
+  },
+  "birthday": "1988-06-07T11:47:24.113Z",
+  "ip": "233.93.224.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Toz wokevo pekvit jer husnur cizer utovoofu vokvoz guz duramfum guzfa wahuovo koza gesum mezgek. Egmafu birjop rop izagimaj da siwepu wojki it uj jagse re jipuji lerlogju ven cekaz cees pamfuffis atdin. Pelfeja kavmep igusit fo fandela mip gewotvo we efizolhi epvefo ivoci iwirfik agwez foiwola ke. Vijge cowo pon lewfos ralac bosje buugu mawpuhub zi zetedfag si ifhoho nin hikzizih.",
+    "bio": "Vu fot fik eracew okolijod ensuv eroza ziwa ri vakugile fi gus vujugas abeabe revjek ne. Mawuf cupah dazlez zuf faz otinuf fa pipzood lo ovaam bu gaivpaz zoupegi sivzop uvsoc. Re lafjibwu onku ebeobvut hum gibpuw pulgemol mamasisop tehezwik meme utaehijo tuv meinka."
+  },
+  "apiKey": "6202574cdd3943c0d29e29e1d46d8d6cab5c8a7c89e4cd1fd95675f5ee1fd5f5",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
