@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Gibson",
+  "age": 40,
+  "address": {
+    "street": "Puca Key",
+    "city": "Basilef",
+    "state": "CA",
+    "zip": "01842"
+  },
+  "contact": {
+    "phone": "(985) 612-7965",
+    "servicePhone": "800764971"
+  },
+  "birthday": "1988-10-16T08:24:39.771Z",
+  "ip": "12.122.147.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Noob jer tohca je det deme hucirziz mu docojo geowi ve obubi. Sil vube eheha ju gic ifeholi beewo vos neohaeti daw tarojiko ci savok. Heij hac na mak ikruguz kip pe pobic lic daputuso fas kuffa mafcub kokut abcuk. Omuhaja titdu afa fob dahgurus zo kim unsat nudodo tamgu had jinmapol. Ko sobvod zeh za opsih kazasuf roguabi une jozratefe rapli duvovli riwwag dab. Zom februcik pihocli ucakud avicuzkeg juefdu bowuuga purve bazful kugzudmoh kuw azmirok uloozjap fegitega lessundu ecadop edhat roweb. Wiriwsif jefeteg vumocgu calogohe hohzisew hu loev sizavob tof av ripom jahsar jimhaf uwjan udezode evenaloz edobo ja.",
+    "bio": "Ovara imuba zejjuw ar zapcem jensi lepot ipiw vetten pon heusi dokioni zimujigo. Roaf dakoiw el atde melja jeice las vulihpo kamfepi haowokim egoletzi zulmuw. Novubdi fabenid ri picec efca lewot av so kejuve jowrafe haninu wilo cesuhu nulfi."
+  },
+  "apiKey": "038fb8fc32bc6b029fe01173f4db70ccfc72d9f1c5d8b1928562d29c6352fa2f",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
