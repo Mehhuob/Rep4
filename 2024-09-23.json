@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Garner",
+  "age": 44,
+  "address": {
+    "street": "Hezi Manor",
+    "city": "Rozwajig",
+    "state": "PA",
+    "zip": "68852"
+  },
+  "contact": {
+    "phone": "(211) 957-7820",
+    "servicePhone": "800373717"
+  },
+  "birthday": "1971-12-19T10:01:59.876Z",
+  "ip": "102.238.46.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozsicne dulre eg uvoig malnesedi abwod sa gauzuopi rib gimubgu juwad eczufbis kehe. Degidbi bava rohwu kesva zi dobtuspo te peari erasi ji gewe rasonzo kuma. Gocozab gib pob coc la jogno jo jir ja ru pufemasi ebilow uj fovnitbuk.",
+    "bio": "Im wufuj wazafijav rewriha kuf otmugwa edki damwo hojka paujediw em lospiw succufe mibeglu pimporjoz. Am mo zogbo reho hetih gituhfi ceweniw puev vad gopga efibocar uwupug. Geoton wijpof abo wavtetwu uscil suftiwif kejec vo usu mullu bog jidgup lascoiz rinmukaf nowzen."
+  },
+  "apiKey": "c73c59fa489537a77e9897fdd7c75a0b5f9db73e2f89a6a5df93f9188a8e5325",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
