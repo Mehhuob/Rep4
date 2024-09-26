@@ -1,0 +1,26 @@
+{
+  "name": "Edward Arnold",
+  "age": 65,
+  "address": {
+    "street": "Heuzi Park",
+    "city": "Nuunuzid",
+    "state": "NE",
+    "zip": "62993"
+  },
+  "contact": {
+    "phone": "(557) 212-5796",
+    "servicePhone": "800957369"
+  },
+  "birthday": "1982-01-05T04:58:11.584Z",
+  "ip": "110.73.5.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Susorwab wag udmabon minislug ewi eb avwepsop vapu doh vi joc birkespag fevaore. Gofa duv ladela dor nibduk soib novan rolgibpo jesvimges mob dicoc ki kahkoiw ic. Jigdu tu pen wi muh tetotse ucjuc zed ap acajo fugi harja mi kucecapu ha zel jovawo.",
+    "bio": "Laufebel wugzag kakowa konjaz ko kupez zedujzu re suvdeeh ucsiel bivgehdoh ravjil fawodkos fe vefcubvew kozmejil. De we maova cemheni zaravume zu jiv jijbacde osi lolru tidfezbat fucenof ku cisa ri. Dijo fopniflo re eli elocohi efo ik gerat id moozu navitwen tuh juk hob. Raetto keno suwge midwod evi kik jopnu ebi nuv pic egbipep kakuer poufo lebipeni tu uhu."
+  },
+  "apiKey": "2525698fc9588aea5075db215ecb24b780965270a4fc042d330146a5fe365b14",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
