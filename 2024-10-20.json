@@ -1,0 +1,26 @@
+{
+  "name": "Christina Bailey",
+  "age": 24,
+  "address": {
+    "street": "Silje Road",
+    "city": "Ompenol",
+    "state": "MA",
+    "zip": "70693"
+  },
+  "contact": {
+    "phone": "(625) 252-4313",
+    "servicePhone": "800825925"
+  },
+  "birthday": "1976-12-21T06:22:48.722Z",
+  "ip": "121.104.6.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Lownafve mak tajvinuru feljeguv seltur te mumun husud oj avieve kiku it daz jitipu cajte. Bavji sunfued sor ataafkan ditohfi bebofav il ruwnugif tiwduploz fadulli bado forbubpan inu vupu ruckuwen ubbok. Afu futuz olehe te duew hohigzam puplogumo aro finhu uzo weviros gi fozhoj. Wuf riboj tobra hu ulnez akabumab ilmes gac acu kenoh bibke wuz tezdilbew gewgucdib pihome tih.",
+    "bio": "Jip monfegrim li fi sacfa fo dikewban isa coilatid ene zahgod bake megirwim zucrolpat beazuosi ewku. Icugagu gujhuk idoisbu taro hucobik zidi wubacov beci ca tob nevpova demra kiuvo seranah se vel ogro kan. Dulrive pela ifamabwur suwwuwvu torafhov otuvinzuw luzube hithu cabwu be itgi vudopuk jandij ne nebwigdem sawteh ragos. Zi huum gulerhi vam du dim er nazicagi vumaaz onuevapi tulmivmel ik. Iplubput bimtec pagjomeh besofbom epri nihkec ja waoveipe ertezmi huhguzapu decerle is zaj isoha."
+  },
+  "apiKey": "8ed661b4769ca670ac0fc4418a019084321b38e2caf0a7f66481c3ecf93c60cd",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
