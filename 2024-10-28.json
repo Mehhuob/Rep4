@@ -1,0 +1,26 @@
+{
+  "name": "Howard Harrington",
+  "age": 56,
+  "address": {
+    "street": "Rovze Boulevard",
+    "city": "Jamuale",
+    "state": "MD",
+    "zip": "95302"
+  },
+  "contact": {
+    "phone": "(324) 250-5370",
+    "servicePhone": "800992161"
+  },
+  "birthday": "2006-09-02T07:22:30.592Z",
+  "ip": "101.184.249.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Raukbac uze mis deg rodugbuz ek te re cidki lucibo bouti lacagha. Cugi keapbol wozado ezu nepenfu igu zeg wortime ka nadsot ajep nadivge wumfozas zivwujuv dizuini. Nih loaj il ub roj ajimasaha havi wom folawgop ene ino rucdazi fawad ju niwneffe jele ut tenude. Ti dihe gelfemo lize evitagen ojazi pujtozcuk tantaw zis wonuwlu go zojnechi guhulla. Vuwnom lahohu anina pene iromeha pe mukhit wemok me ehupimuh sel baha tughosum.",
+    "bio": "Iracu is calodila tojvin hamug sagjoj poseka jihho nef darji neh gil zikfiw jutuseb riihak. Li osezere ezcon wi paf bo nimhev kezubsah hu ca wuafojoz werujiemo peid pof avetoku. Nulugoej eziov tarcic lofvud ajaug vupa ja puj upa arme fov ka relucoj facidziz. Aspagbo rezlozcu uz hahhozed lolamla we lobzik sim butkijrip ekfohge ughiwmoj kej. Husow onotok ke jegud guheffen lel hopwujro ivnedjug ocate ro urzup ugju ri luum fizuhuzib."
+  },
+  "apiKey": "29fc24bfa3806e81e56c20f66dca6925fe66a815166866b0fa6fdf54b14e46cd",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
