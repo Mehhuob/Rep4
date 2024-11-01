@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Moss",
+  "age": 23,
+  "address": {
+    "street": "Fego View",
+    "city": "Zufofic",
+    "state": "NC",
+    "zip": "63670"
+  },
+  "contact": {
+    "phone": "(929) 737-1257",
+    "servicePhone": "800746841"
+  },
+  "birthday": "1968-07-26T09:30:03.687Z",
+  "ip": "95.138.192.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Gos fa ozoik vanonjel setu nudadapi igafi sip saisdud hahfowi pe poore hijo celha signumput beh luzovmuf. Zuvtibak fin wiravi wo ebabiz karewi eceet omicel ub omiidiraw deusunep do rowaphed tagjos berdamoh nazoslit ditses re. Lucu narohe eczaheh niduk derdaj baf ver uto meadi kezusi ohtehi efovileju bohgeih. Adbe dolerse furuz feh ula doid helve tifaduc cuiz utebasit wokwo ge seba opije bokawek. Cubes uceucabej fe mowondo lilo ko tusvip karohwa navje vigep osu zake ahwezo. Wepnucu petzas gi wo gahap niarejed puavamim je nocefag lem luawo egfo nioz onuki on as da.",
+    "bio": "Sockef namriljib deneba aptehta geza dov beltib jiz tebamawi etid aphik hupiv ejaeri guwvamcu tikvop jowriva. Sedpi ce gemepmib zuwrapwur pufdar gap ehferfod rubsijdej cejugban wogohfel hun pulsu dobtec tulub. Egeanatu ode sigva jiwafez il fa ejbo uzizam pamu wub zabcaat oni."
+  },
+  "apiKey": "a14c9ab26b05b7c100b81fe8ddce1ef1a29681e010ed63f058413f6b47c0712c",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
