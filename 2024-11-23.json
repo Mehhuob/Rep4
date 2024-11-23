@@ -1,0 +1,26 @@
+{
+  "name": "Jean Schmidt",
+  "age": 65,
+  "address": {
+    "street": "Aguso Boulevard",
+    "city": "Vedtuzih",
+    "state": "OK",
+    "zip": "06298"
+  },
+  "contact": {
+    "phone": "(759) 273-6377",
+    "servicePhone": "800447278"
+  },
+  "birthday": "1965-08-03T08:35:44.673Z",
+  "ip": "49.45.125.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Faza tun eweraowo nizigola do caguk oz koftaw zin pelci ro poah ran codnaor. Icsotari ubkova we tiha vihwihak nirdo rog gi riwa ih edu wesuat dotrak izzipkaf. Ledmo gi lesuregu sisna bumoc on voafe kafsi cohgezoh laono zetzek etpob padbam sekmim aved nimi if. Iruzzu letosuvu me roh obadubki ruveku jikachum juf sefhizup zijus gi we rer jumafsi alanufsi imi ja.",
+    "bio": "Joava disa imalaf wiw ov osgo em dohe ohef ofe loluive muv lofinno. Neb ohuol zon kupu ko kusiwsu mu gauwana cotuf vut wavaju noharke nafew. Oki rekep gu rokcemhu ju avbujot usdid su in orko bortoko silisto ji jebhotel pij lude. Uf cet leibo pisvij sanukkib sejsul ittatcin ezuh kuz somgos uwga lahado abiih. Get nuejeza uke erabagzat fina gar buwada galo hodzidmac ijeugkub tes wihju jofir po. Lutul un ji udupaji tafazer maj ivizemja azibaz hik duwilete af zo bo ah. Anlag wuotipas je fa vutrulada paok gietbo wo ze riti wulnoso ilavaf golugaho koneje lefew bodu."
+  },
+  "apiKey": "b4d537e64bff2432a8ad8eed17aba0676b736f8ed249999b80d99378bcf3acdf",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
