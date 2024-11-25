@@ -1,0 +1,26 @@
+{
+  "name": "Caroline Weber",
+  "age": 18,
+  "address": {
+    "street": "Mijgoc Street",
+    "city": "Pihasoh",
+    "state": "CA",
+    "zip": "39060"
+  },
+  "contact": {
+    "phone": "(635) 506-9341",
+    "servicePhone": "800649191"
+  },
+  "birthday": "1969-03-08T02:36:18.145Z",
+  "ip": "240.142.44.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Bidunis opopembi filo ligove he mi pe rukuw eceovu akwun zofow vus mu uczalaj. Lorica cekbe cez car du ajuner zez cid da ag lavmorzab parbomlo. Feidujuw zomborug cakdeb paz alave darankew ze esubor hadpaw ivhasuzu lac wo akbepba voca. Ibfen dofsajko uj oko rokeliwum fivkoeru wul di sehekeva onauwmul usefa dem duhi gatmukuku iwnof. Up pe mennuj covlun mefib vem zecriwip nig bulucon em apmadcu cokeg didok tazo.",
+    "bio": "Ivnodbis li kipavavu ki ve wirbevci jokor jeorib hohgezfoj uvizelbun avi nem te ori ike corow. Dabris puvoc ba poplef nacet fapbo iwfok dej si wuas he ras jiulibo golurwa bata vu pivuugo suge. Ged regtohusa kikweh gemoklal herpo cokri pocmak rewip tepu ikaju ci fipem tunvuneh garisuz. Riotad nezgor uhirag far lowug ijonna gof wez ronwip ug cerilof na zaf ojiroba karri ihawosba. Urnec uh cilfuc tavsadme olpu jehafeel jukrec zeflut junohaki wib eridiha jir harkos."
+  },
+  "apiKey": "41660a6f5bfd9b881e16c81a6f8d059e2bbc8969a376256ad0fc1ec58e5f8a39",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
