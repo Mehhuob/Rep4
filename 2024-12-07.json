@@ -1,0 +1,26 @@
+{
+  "name": "Annie Harmon",
+  "age": 49,
+  "address": {
+    "street": "Zemte Drive",
+    "city": "Konida",
+    "state": "MN",
+    "zip": "68472"
+  },
+  "contact": {
+    "phone": "(562) 591-8319",
+    "servicePhone": "800875949"
+  },
+  "birthday": "1972-01-31T07:14:06.868Z",
+  "ip": "205.118.55.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Legazej bapfuj ezevibin ri gujefa wo tanguh bujub osnefid nu bi ejaf cob. Lefis ehzof pagitemig eri zufuf dir nahpi saf buivbu palvajgu lin biupilo inmuz fe weg mizfawku ipahadir. Imukim tepup ken neg ba wewnoeta ucu izpem pek opedu ac guhedju soiwdo rifusol henka.",
+    "bio": "Zub fumajtuf to vepnimmu muizma gaz ufgu hibo iku kab bew mijeba feb. Todnajas bamu onenedgit hug huwa cowhuj ne amcaji lef zif imgucvom ga. Wizunuko demjoro agowe boj bakuw gip jihe nupevabo gohaka ceit em rah rucolap depejo cuw gi ce. Me gup bupicpem idu san fi tukaho sorhimo topan lirtaligu ada marudima vuzeg zoepow ajasal rugi."
+  },
+  "apiKey": "8265bc39c7dcbd851042f247f24a051bf908b84d7a999c8c995faeb066e621aa",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
