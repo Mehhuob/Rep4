@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Gregory",
+  "age": 22,
+  "address": {
+    "street": "Lirhiz Plaza",
+    "city": "Ewubudfu",
+    "state": "NE",
+    "zip": "64781"
+  },
+  "contact": {
+    "phone": "(937) 863-3297",
+    "servicePhone": "800921193"
+  },
+  "birthday": "1964-04-29T10:54:32.884Z",
+  "ip": "187.60.194.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Na peg va tav advibope nu pawvo simwovom osesi azo dic wa mod. Woc hak no etoat roalehe si cabza on tilukopus bovsazjej kiv wekriek voci vuler subbol aptukif firhezlo tah. Lif ow sed kudi etazafe hehwuwwek rilopav sonoesi ke tub efoifu wugu devpurin.",
+    "bio": "Honrepwoh ke nokadzuz hiwug heko tedir kim pozudmu mem ni kog ofunutkeh. Jukebne kadem ate fiacva efo madu jev wutwit ew potfe nucvi zil luivpa javij te cefunzaz fejafa tirgucev. Beppi hionto leku egkotam ejwemu rivli ileba owbabno ras kuwlotma mecsil no lav iko da gaceb zo. Nocegi ar fa tegiho sunto cos toz ku vonmajo aw zugavrip zi."
+  },
+  "apiKey": "da2c3ae32023524435f6c2c6b44570a7026b0439b3c2411c54151a2493fc1d1d",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
