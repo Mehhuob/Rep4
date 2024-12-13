@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Ross",
+  "age": 53,
+  "address": {
+    "street": "Oglur Point",
+    "city": "Wimpuchi",
+    "state": "RI",
+    "zip": "81440"
+  },
+  "contact": {
+    "phone": "(437) 389-2106",
+    "servicePhone": "800138324"
+  },
+  "birthday": "1980-05-15T11:48:01.367Z",
+  "ip": "160.190.104.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Wose rudamu hu id uwtevoru esi fuwneisu pi wis keb munheh la do koec noc du durronfus. Le ted dek gorjik gutku tojuv piinzag kebeluh to kuugugu iljajpe da. Wo dizepruz vo sek adise tazbug nitiun ekkap izmed tadepa werubida guge upo der rif jif. Efbin roje efa opbapmeh ogu liktoram cafjebjid dosom kehot behrasuz berjejcac pa ma ohzo. Hil saf jesuzega wi jan upjof ludzomajo zagerarak do arke nez jepnog gu or gu fom.",
+    "bio": "Noza azailooh jabas hom kilke sazko gicebu hi dolbolkut deila jivobka wirogu. Mif voub he mumliwa zitki nujbabbo tumuhed mibu si funnu luhas ozo asebucab. Tezo siuta ivhaf hec gizkajed utevula datjawtoj kohwanu siireji rufpej lor abo jucu li pad jop. Daldefwo viwo heb si gog werziib mi cic kemvofseg duped ojeluz lig ih hopupdu pupik cu wul. Ihi tekemip ofnuba alpoko dogah nup nuervev je no movevgam locu occukod wod. Wa lefode avasa micjul at pitpuvof bikgoz jepisfi porehhin idega duvaebu te ukvi lov zadsom lemeznej."
+  },
+  "apiKey": "c453cab74ab3e8732b776c924403a71992ab9e50d25128e4a4eaedfe9c23179f",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
